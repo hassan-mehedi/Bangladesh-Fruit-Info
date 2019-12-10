@@ -1,0 +1,467 @@
+<resources>
+    <string name="app_name">FruitInfoApp</string>
+    <string-array name="fruit_name_list">
+        <item> Apple </item>
+        <item> Banana </item>
+        <item> Carambola </item>
+        <item> Coconut </item>
+        <item> Guava </item>
+        <item> Grape </item>
+        <item> Jackfruit </item>
+        <item> Jujube </item>
+        <item> Lychee</item>
+        <item> Mango </item>
+        <item> Olive </item>
+        <item> Papaya </item>
+        <item> Pineapple </item>
+        <item> Plum </item>
+        <item> Pomegranate </item>
+        <item> Pomelo </item>
+        <item> Tamarind </item>
+        <item> Watermelon </item>
+
+    </string-array>
+
+    <string name="Mango">
+        <b><i>Introduction</i></b>: Mango a fruit widely cultivated  in the tropical and subtropical countries of the world.
+        The origin of mango, Mangifera indica, of the family Anacardiaceae, is lost in antiquity.
+        According to some authorities, horticultural forms are derived from the species M.
+        indica, considered indigenous to the eastern region of\n the Indian subcontinent, including Bangladesh, Assam (India), and Myanmar.
+        The other species, such as M. laurina, probably originated in the Malayan region.
+        Very few fruits are so inextricably connected with \nthe folklore and religious ceremonies of India as the mango.\n
+        <b><i>Places</i></b>: There are numerous orchards scattered all over the greater Rajshahi and Dinajpur districts and other areas of the country.
+	    <b><i>Season</i></b>: May-September.\n
+        <b><i>Nutritions</i></b>: Mango is a low-calorie fruit that is high in fibre,
+        and is a great\n source of vitamins A and C. It also contains folate, B6, iron and a little calcium, zinc and vitamin E.
+	    Calories 	60\n
+	    Sodium 		1 mg\n
+	    Potassium 	168 mg\n
+	    Vitamin A	21%\n
+	    Calcium		1%\n
+	    Vitamin C	60%\n
+	    Iron		1%\n
+	    Vitamin B-6	5%\n
+	    Magnesium	2%
+    </string>
+
+    <string name="Jackfruit">
+
+        <b><i>Introduction</i></b>: Jackfruit is an exotic fruit grown in tropical regions of the world. It is native to South India.
+        It is part of the Moraceae plant family, which also includes fig, mulberry and breadfruit. Jackfruit has a spiky outer skin and is green or yellow in color.
+        One unique aspect of jackfruit is its unusually large size. It is the largest tree fruit in the world and can reach up to 80 pounds (35 kg) in weight.
+        Jackfruit has a subtle sweet and fruity flavor. It has been said to taste similar to a combination of fruits, including apples, pineapples, mangoes and bananas.
+
+        <b><i>Places</i></b>: Dhaka, Tangailm Gazipur, Narsingdhi, Mymensingh, Dinajpur, Rangamati, Khagrachori and other districts also.
+
+        <b><i>Season</i></b>: April – October.
+
+        <b><i>Nutritions</i></b>: Jackfruit has an impressive nutrition profile.
+        It contains a moderate amount of calories, providing 155 in a one-cup (165-gram) serving. Approximately 92% of the calories come from carbs, while the rest come from protein and a small amount of fat (3).
+        Furthermore, jackfruit contains some of almost every vitamin and mineral that you need, as well as a decent amount of fiber (3).
+        One cup of sliced fruit provides the following nutrients (3):
+
+        Calories: 155
+        Carbs: 40 grams
+        Fiber: 3 grams
+        Protein: 3 grams
+        Vitamin A: 10% of the RDI
+        Vitamin C: 18% of the RDI
+        Riboflavin: 11% of the RDI
+        Magnesium: 15% of the RDI
+        Potassium: 14% of the RDI
+        Copper: 15% of the RDI
+        Manganese: 16% of the RDI
+        What makes jackfruit unique from other fruits is its protein content. It provides more than 3 grams of protein per cup, compared to 0–1 grams in other similar types of fruit, such as apples and mangoes (3, 4, 5).
+
+        Jackfruit is also rich in several types of antioxidants, which are likely responsible for the majority of its health benefits (6Trusted Source).
+
+    </string>
+
+    <string name="Lychee">
+
+        <b><i>Introduction</i></b>: The lychee (Litchi chinensis) — also known as litchi or lichee — is a small tropical fruit from the soapberry family. Known for their sweet and flowery flavor, they’re typically eaten fresh and sometimes used in ice creams or processed into juice, wine, sherbert, and jelly. Lychees have an inedible, pink-red, leathery skin, which is removed before consumption. The flesh is white and surrounds a dark seed in the center.
+
+        <b><i>Places</i></b>:  presently it is being grown mainly in rajshahi, rangpur, dinajpur, jessore, kushtia, mymensingh and narayanganj.
+
+        <b><i>Season</i></b>: June – July.
+
+        <b><i>Nutritions</i></b>:  Lychees are mainly composed of water and carbs — which make up 82% and 16.5% of the fruit, respectively (1Trusted Source).
+
+        A 3.5-ounce (100-gram) serving of fresh lychees provides the following nutrients. The table below shows the main nutrients in fresh lychees (1Trusted Source):
+
+        Calories: 66
+        Protein: 0.8 grams
+        Carbs: 16.5 grams
+        Sugar: 15.2 grams
+        Fiber: 1.3 grams
+        Fat: 0.4 grams
+
+    </string>
+
+    <string name="Banana">
+
+        <b><i>Introduction</i></b>: Bananas are extremely healthy and delicious.
+        They contain several essential nutrients and provide benefits for digestion, heart health and weight loss.
+        Aside from being very nutritious, they are also a highly convenient snack food.
+
+        <b><i>Places</i></b>: Narsingdi, Gazipur, Tangail, Rangpur, Bogra, Natore, Pabna, Noakhali, Faridpur, Khulna in our country. Districts of wild grown Banana are Sylhet, Moulvibazar, Netrokona, Rangamati, Khagrachhari, Bandarban.
+
+        <b><i>Season</i></b>:  All season.
+
+        <b><i>Nutritions</i></b>: Bananas contain a fair amount of fiber, as well as several antioxidants. One medium-sized banana (118 grams) also boasts (1, 2Trusted Source, 3Trusted Source):
+
+        Potassium: 9% of the RDI
+        Vitamin B6: 33% of the RDI
+        Vitamin C: 11% of the RDI
+        Magnesium: 8% of the RDI
+        Copper: 10% of the RDI
+        Manganese: 14% of the RDI
+        Net carbs: 24 grams
+        Fiber: 3.1 grams
+        Protein: 1.3 grams
+        Fat: 0.4 grams
+        Each banana has only about 105 calories and consists almost exclusively of water and carbs. Bananas hold very little protein and almost no fat.
+
+        The carbs in green, unripe bananas consist mostly of starch and resistant starch, but as the banana ripens, the starch turns into sugar (glucose, fructose and sucrose).
+
+    </string>
+
+    <string name="Guava">
+
+        <b><i>Introduction</i></b>: Guava are oval in shape with light green or yellow skin and contain edible seeds. What’s more, guava leaves are used as an herbal tea and the leaf extract as a supplement.
+
+       Guava fruits are amazingly rich in antioxidants, vitamin C, potassium, and fiber. This remarkable nutrient content gives them many health benefits.
+
+        <b><i>Places</i></b>: Barisal, Pirojpur, Gazipur, Jhalokhati, Dhaka, Hill Tracks, B. Baria, rangamati Districts and other Districts also,
+
+        <b><i>Season</i></b>: Summer and less in autumn
+
+        <b><i>Nutritions</i></b>: Guava fruit is a nutritious and healthful food that is rich in several important nutrients.
+
+       According to the United States Department of AgricultureTrusted Source, 100 grams (g) of raw guava fruit contain:
+
+       68 calories
+       14.32 g of carbohydrates
+       8.92 g of sugars
+       0.95 g of fat
+       5.4 g of dietary fiber
+       417 mg of potassium
+       228.3 mg of vitamin C
+       624 international units of vitamin A.
+
+    </string>
+
+    <string name="Plum">
+
+        <b><i>Introduction</i></b>: Jamun, the highly nutritious, refreshing and succulent fruit flooding the summer markets has innumerable health benefits. Commonly known as Java plum or Indian blackberry in English.
+
+        <b><i>Places</i></b>:  Comnilla, Noakhali, Gazipur, Sylhet, Dhaka, Mymenshingh, Dinajpur, Tangail District and other district also.
+
+        <b><i>Season</i></b>:  May-June
+
+        <b><i>Nutritions</i></b>: Nutrient          Value
+            Water [g]	       83.13
+            Energy [kcal]	60
+            Protein [g] 	0.72
+            Total lipid (fat) [g]0.23
+            Carbohydrate, by difference [g]	15.56
+            Calcium, Ca [mg]	19
+            Iron, Fe [mg]	0.19
+            Magnesium, Mg [mg]	15
+            Phosphorus, P [mg]	17
+            Potassium, K [mg]	79
+            Sodium, Na [mg]	14
+            Vitamin C, total ascorbic acid [mg]	14.3
+            Thiamin [mg]	0.01
+            Riboflavin [mg]	0.01
+            Niacin [mg]	0.26
+            Vitamin B-6 [mg]	0.04
+            Vitamin B-12 [µg]	0
+            Vitamin A, RAE [µg]	0
+            Vitamin A, IU [IU]	3
+            Fatty acids, total trans [g]	0
+            Cholesterol [mg]	0
+
+    </string>
+
+    <string name="Papaya">
+
+        <b><i>Introduction</i></b>:  Papaya is the fruit of the Carica papaya plant. If the papaya is ripe, it can be eaten raw. However, unripe papaya should always be cooked before eating — especially during pregnancy, as the unripe fruit is high in latex, which can stimulate contractions (1Trusted Source).
+       Papayas are shaped similar to pears and can be up to 20 inches (51 cm) long. The skin is green when unripe and orange when ripe, while the flesh is yellow, orange or red.
+       The fruit also has many black seeds, which are edible but bitter.
+
+        <b><i>Places</i></b>:  All over Bangladesh.
+
+        <b><i>Season</i></b>: All seasons.
+
+        <b><i>Nutritions</i></b>: One small papaya (152 grams) contains (2):
+
+       Calories: 59
+       Carbohydrates: 15 grams
+       Fiber: 3 grams
+       Protein: 1 gram
+       Vitamin C: 157% of the RDI
+       Vitamin A: 33% of the RDI
+       Folate (vitamin B9): 14% of the RDI
+       Potassium: 11% of the RDI
+       Trace amounts of calcium, magnesium and vitamins B1, B3, B5, E and K.
+       Papayas also contain healthy antioxidants known as carotenoids — particularly one type called lycopene.
+
+    </string>
+
+    <string name="Jujube">
+
+        <b><i>Introduction</i></b>:  Jujube fruit, These small round fruits with a seed-containing pit grow on large flowering shrubs or trees (Ziziphus jujuba). When ripe, they’re dark red or purple and may appear slightly wrinkled.
+
+        <b><i>Places</i></b>: Rajshahi, Comilla, Nator, Pabna, Naogaon, Mymensingh Districts and others districts also.
+
+        <b><i>Season</i></b>:   February-March
+
+        <b><i>Nutritions</i></b>: Jujube fruit is low in calories but rich in fiber, vitamins, and minerals.
+
+        A 3-ounce (100-gram) serving of raw jujube, or about 3 fruits, provides (1, 2Trusted Source):
+
+        Calories: 79
+        Protein: 1 gram
+        Fat: 0 grams
+        Carbs: 20 grams
+        Fiber: 10 grams
+        Vitamin C: 77% of the Daily Value (DV)
+        Potassium: 5% of the DV
+        Due to their high fiber content and low calorie count, jujubes make an excellent, healthy snack.
+
+        They contain small amounts of several vitamins and minerals but are particularly rich in vitamin C, an important vitamin with antioxidant and immune-boosting properties (3Trusted Source).
+
+        They also contain a fair amount of potassium, which plays vital roles in muscle control and electrolyte balance (2Trusted Source).
+
+        In addition, jujube fruits contain carbs in the form of natural sugars, which provide your body energy.
+
+        However, dried jujubes, which are more commonly eaten and used in cooking in many parts of the world, are much higher in sugar and calories than the fresh fruit.
+
+    </string>
+
+    <string name="Pomelo">
+
+        <b><i>Introduction</i></b>: Pomelo—also called "pummelo" or "pommelo" —is the largest member of the citrus (Rutaceae) family. This large, pale, green or yellow fruit has a pink, white or red inside that tastes like a slightly sweeter alternative to grapefruit. For that reason, some call people also call it a Chinese grapefruit.
+      The fruit is native to Southeast Asia
+
+        <b><i>Places</i></b>: Sylhet, Moulovibazar, Khagrachori, Bandarban, Rangmati, Chittagong, Rangpur, Pabna, Rajshahi districts and other districts also.
+
+        <b><i>Season</i></b>:  April - October
+
+        <b><i>Nutritions</i></b>: The following nutrition information is provided by the USDA for one whole fruit (609g) without refuse.
+
+       Calories: 231
+       Fat: 0.2g
+       Sodium: 6.1mg
+       Carbohydrates: 59g
+       Fiber: 6.1g
+       Sugars: 12.5g
+       Protein: 4.6g
+
+    </string>
+
+    <string name="Pineapple">
+
+        <b><i>Introduction</i></b>:  Pineapple (Ananas comosus) is an incredibly delicious and healthy tropical fruit. This popular fruit is packed with nutrients, antioxidants and other helpful compounds, such as enzymes that can fight inflammation and disease.
+
+Pineapple and its compounds have been linked to many health benefits, including aiding digestion, boosting immunity and speeding up recovery from surgery, among others.
+
+        <b><i>Places</i></b>:  Sylhet, Moulovibazar, Tangail, Chittagong, Hill Tracts, Mymensingh Districts.
+
+        <b><i>Season</i></b>:  All seasons.
+
+        <b><i>Nutritions</i></b>: Pineapples are low in calories but have an incredibly impressive nutrient profile.
+
+        One cup (5.8 ounces or 165 grams) of pineapple chunks contains the following (2):
+
+        Calories: 82.5
+        Fat: 1.7 grams
+        Protein: 1 gram
+        Carbs: 21.6 grams
+        Fiber: 2.3 grams
+        Vitamin C: 131% of the RDI
+        Manganese: 76% of the RDI
+        Vitamin B6: 9% of the RDI
+        Copper: 9% of the RDI
+        Thiamin: 9% of the RDI
+        Folate: 7% of the RDI
+        Potassium: 5% of the RDI
+        Magnesium: 5% of the RDI
+        Niacin: 4% of the RDI
+        Pantothenic acid: 4% of the RDI
+        Riboflavin: 3% of the RDI
+        Iron: 3% of the RDI
+        Pineapples also contain trace amounts of vitamins A and K, phosphorus, zinc and calcium.
+        They are especially rich in vitamin C and manganese, providing 131% and 76% of the daily recommendations, respectively.
+
+    </string>
+
+    <string name="Coconut">
+
+        <b><i>Introduction</i></b>:  Coconut is the fruit of the coconut palm (Cocos nucifera).
+
+It’s used for its water, milk, oil, and tasty meat.
+
+Coconuts have been grown in tropical regions for more than 4,500 years but recently increased in popularity for their flavor, culinary uses, and potential health benefits
+
+        <b><i>Places</i></b>: Khulna, Barishal, Patuakhali, Bhola, Noakhali, Chittagong, Faridpur, Jossore district and other district also.
+
+        <b><i>Season</i></b>:  All season.
+
+        <b><i>Nutritions</i></b>: contain protein, several important minerals, and small amounts of B vitamins. However, they’re not a significant source of most other vitamins (5, 6).
+
+        The minerals in coconut are involved in many functions in your body. Coconuts are especially high in manganese, which is essential for bone health and the metabolism of carbohydrates, proteins, and cholesterol (8Trusted Source).
+
+        They’re also rich in copper and iron, which help form red blood cells, as well as selenium, an important antioxidant that protects your cells.
+         Here are the nutrition facts for 1 cup (100 grams) of raw and dried coconut meat (5, 6):
+
+               Raw coconut meat	Dried coconut meat
+Calories	354	              650
+Protein	        3 grams	              7.5 grams
+Carbs	        15 grams	      25 grams
+Fiber	        9 grams	              18 grams
+Fat	        33 grams	      65 grams
+Manganese	75% of the Daily Value (DV)	137% of the DV
+Copper	        22% of the DV	      40% of the DV
+Selenium	14% of the DV	      26% of the DV
+Magnesium	8% of the DV	      23% of the DV
+Phosphorus	11% of the DV	      21% of the DV
+Iron	        13% of the DV	      18% of the DV
+Potassium	10% of the DV	      16% of the DV
+
+    </string>
+
+    <string name="Carambola">
+
+        <b><i>Introduction</i></b>: Star fruit — or carambola — is a sweet and sour fruit that has the shape of a five-point star.
+
+The skin is edible and the flesh has a mild, sour flavor that makes it popular in a number of dishes.
+
+The star fruit is yellow or green in color. It comes in two main types: a smaller, sour variety and a larger, sweeter one.
+
+        <b><i>Places</i></b>: Gazipur, Mymensingh, Tangail, Dhaka, Sylhet Districts and others ditricts also.
+
+        <b><i>Season</i></b>:  April - October.
+
+        <b><i>Nutritions</i></b>:  The star fruit is a decent source of several nutrients — especially fiber and vitamin C.
+
+        This is the nutrient content of a single, medium-sized (91-gram) star fruit (1):
+
+        Fiber: 3 grams
+        Protein: 1 gram
+        Vitamin C: 52% of the RDI
+        Vitamin B5: 4% of the RDI
+        Folate: 3% of the RDI
+        Copper: 6% of the RDI
+        Potassium: 3% of the RDI
+        Magnesium: 2% of the RDI
+        Though the nutrient content may appear relatively low, keep in mind that this serving only has 28 calories and 6 grams of carbs. This means that, calorie for calorie, star fruit is very nutritious.
+
+    </string>
+
+    <string name="Apple">
+
+        <b><i>Introduction</i></b>: apple or Limonia acidissima is a tropical fruit grown in South Asia and Southeast Asian countries. The fruit gets its name due to its hard rind.
+
+        The Wood apple fruit contains outer shell covering the pulp. The outer shell is hard and tough to break. The pulp is aromatic, sticky, scattered with seeds and tastes bitter when it is maturing and sweet-sour when ripen.
+
+        <b><i>Places</i></b>:  Gazipur, Mymensingh, Rajshahi, Chittagong districts and other districts also.
+
+        <b><i>Season</i></b>: Winter
+
+        <b><i>Nutritions</i></b>:
+        1. Proteins 1.8 g
+        2. Fat 0.3 g
+        3. Vitamin A 55 mg
+        4. Vitamin C 8 to 60 mg
+
+    </string>
+
+    <string name="Pomegranate">
+
+        <b><i>Introduction</i></b>: :Pomegranates are among the healthiest fruits on Earth.
+
+        They contain a range of beneficial plant compounds, unrivaled by other foods.
+
+        Studies have shown that they may have several benefits for your body, possibly lowering your risk of various diseases.
+
+        <b><i>Places</i></b>: Rajshahi, Chapaynababgonj, Natore, Dinajpur, Thakurgaon, Rangpur Districts and others districts also.
+
+        <b><i>Season</i></b>: early August - late September
+
+        <b><i>Nutritions</i></b>: one cup of arils (174 grams) contains (2):
+
+        Fiber: 7 grams
+        Protein: 3 grams
+        Vitamin C: 30% of the RDI
+        Vitamin K: 36% of the RDI
+        Folate: 16% of the RDI
+        Potassium: 12% of the RDI
+        The pomegranate arils are also very sweet, with one cup containing 24 grams of sugar and 144 calories.
+
+    </string>
+
+    <string name="Watermelon">
+
+
+
+    </string>
+
+    <string name="Grape">
+
+        <b><i>Introduction</i></b>:  grape is an egg-shaped, yellowish colored, pinkish to bright red or purple fruit. This is a small and a juicy fruit with good taste.
+
+        <b><i>Places</i></b>: Narsingdhi, Gazipur, Netrokona, Sylhet districts.
+
+        <b><i>Season</i></b>: April - October
+
+        <b><i>Nutritions</i></b>: Apart from their sour and sweet taste, Burmese grape is a good source of nutrients, vitamins and minerals. Consuming 100 gram of Burmese grapes offers 55 mg of Vitamin C, 3.3 mg of Iron, 10.5 g of Carbohydrate, 0.7 g of Protein, 0.3 g of Total Fat and 2 mg of Calcium.
+
+    </string>
+
+    <string name="Olive">
+
+        <b><i>Introduction</i></b>: Olives are small fruits that grow on olive trees (Olea europaea).
+
+        They belong to a group of fruit called drupes, or stone fruits, and are related to mangoes, cherries, peaches, almonds, and pistachios.
+
+        <b><i>Places</i></b>: Comilla, Gazipur, Tangail, Narsingdhi, Noakhali district and all others districts.
+
+        <b><i>Season</i></b>: November - February
+
+        <b><i>Nutritions</i></b>: Olives contain 115–145 calories per 3.5 ounces (100 grams), or about 59 calories for 10 olives.
+
+        The nutrition facts for 3.5 ounces (100 grams) of ripe, canned olives are (3Trusted Source):
+
+        Calories: 115
+        Water: 80%
+        Protein: 0.8 grams
+        Carbs: 6.3 grams
+        Sugar: 0 grams
+        Fiber: 3.2 grams
+        Fat: 10.7 grams
+        Saturated: 1.42 grams
+        Monounsaturated: 7.89 grams
+        Polyunsaturated: 0.91 grams
+
+    </string>
+
+    <string name="Tamarind">
+
+        <b><i>Introduction</i></b>: Tamarind pods come from the tamarind tree. The sticky pulp of the brown pods is edible and has a sweet and sour flavor. It is used in dishes for a tangy component (such as in pad thai) and in chutneys, desserts, beverages, syrups, sauces, and candy.
+
+        <b><i>Places</i></b>:  Dinajpur, Thakurgaon, Rangpur, Bogra, Gazipur disticts and other districts also.
+
+        <b><i>Season</i></b>:   March-Aug
+
+        <b><i>Nutritions</i></b>: This food is an excellent source of vitamin B, vitamin C, potassium, magnesium, iron, thiamine, phosphorus, riboflavin, and fiber.2?
+
+        One-half cup of tamarind pulp contains roughly: 140 calories, 0.4 g fat, 38 g carbohydrate, 34 g sugar, 3 g fiber and 2 g of protein.
+
+    </string>
+
+    <string name="about_us">
+        This application was made by team UNI3.\n<b>Developer:</b> Md. Mehedi Hassan.\n<b>Contact number:</b> 01674420630.
+    </string>
+</resources>

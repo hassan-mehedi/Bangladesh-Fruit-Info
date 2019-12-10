@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#241332"
+    android:orientation="vertical"
+    android:weightSum="100"
+    tools:context=".Homepage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="25">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/exlogo" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="141dp"
+                android:layout_marginEnd="141dp"
+                android:src="@drawable/logo128" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="55"
+        android:orientation="vertical"
+        android:weightSum="2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <Button
+                android:id="@+id/searchFruitsId"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/home_button_curve"
+                android:paddingTop="15dp"
+                android:text="Search Fruits"
+                android:drawableTop="@drawable/s64"
+                android:textAllCaps="false"
+                android:textSize="25sp" />
+
+            <Button
+                android:id="@+id/allFruitsId"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="15dp"
+                android:layout_weight="1"
+                android:text="All fruits"
+                android:drawableTop="@drawable/f64"
+                android:textAllCaps="false"
+                android:textSize="25sp"
+                android:paddingTop="15dp"
+                android:background="@drawable/home_button_curve" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:weightSum="2">
+
+            <Button
+                android:id="@+id/fruitRelatedVideosId"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="8dp"
+                android:layout_weight="1"
+                android:text="Fruit Videos"
+                android:drawableTop="@drawable/v64"
+                android:textAllCaps="false"
+                android:textSize="25sp"
+                android:paddingTop="15dp"
+                android:background="@drawable/home_button_curve" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="20"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:weightSum="2">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:weightSum="6"
+            android:paddingLeft="10dp"
+            android:gravity="start">
+
+            <Button
+                android:id="@+id/feedbackId"
+                android:layout_weight="4"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="Feedback"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:paddingTop="12dp"
+                android:drawableTop="@drawable/feed32"
+                android:background="@drawable/home_button_circle" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:weightSum="6"
+            android:paddingRight="10dp"
+            android:gravity="end">
+
+            <Button
+                android:id="@+id/aboutUsId"
+                android:layout_weight="4"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="About us"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                android:paddingTop="12dp"
+                android:drawableTop="@drawable/qus32"
+                android:background="@drawable/home_button_circle" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

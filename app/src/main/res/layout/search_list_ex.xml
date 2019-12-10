@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="55dp">
+
+    <TextView
+        android:id="@+id/listTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/abeezee"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:text="Fruit related videos"
+        android:textColor="#5F5959"
+        android:textSize="18sp"
+        android:textStyle="normal" />
+
+</LinearLayout>
